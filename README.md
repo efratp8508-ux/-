@@ -1,11 +1,11 @@
-# Campus IL — אפיון חוויית חיפוש
+# Campus IL — מצגת אפיון חוויית חיפוש
 
-הגרסה העדכנית היא **v2**, עם מסמך בן עשרה עמודים.
+הגרסה העדכנית היא **v3**: עשרה עמודים, עם הדגשות צבע עדינות.
 
-[הורדת חבילת ההגשה המתוקנת](https://github.com/efratp8508-ux/-/raw/refs/heads/main/Campus-IL-UX-submission-v2.zip)
+[פתיחת מצגת ההגשה ב־Figma](https://www.figma.com/design/69Y6PxNndnG72WUNVXteMW?node-id=19-35)
 
-[פתיחת גרסת Figma המתוקנת](https://www.figma.com/design/69Y6PxNndnG72WUNVXteMW?node-id=19-35)
+[הורדת חבילת ההגשה המעודכנת](https://github.com/efratp8508-ux/-/raw/refs/heads/main/Campus-IL-UX-submission-v3.zip)
 
-בתוך ה־ZIP: PDF, קישור Figma, טבלת כיסוי של דרישות המטלה, פירוט השינויים וצילום מהאתר המקורי.
+בחבילה PDF, קישור Figma, טבלת דרישות, פירוט שינויים וצילום מהאתר המקורי.
 
-הקובץ `Campus-IL-UX-submission.zip` הוא הגרסה הקודמת. השתמשו בקובץ שמסתיים ב־`v2.zip`.
+הקבצים ללא מספר גרסה ועם v2 הם גרסאות קודמות. לפי המטלה אפשר להגיש קישור Figma או PDF; אין צורך להגיש את כל ה־ZIP.
